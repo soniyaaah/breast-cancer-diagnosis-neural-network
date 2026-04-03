@@ -69,4 +69,7 @@ The model is built using **TensorFlow and Keras** and demonstrates a complete ma
 ## ▶️ How to Run the Project
 ```bash
 pip install numpy pandas matplotlib scikit-learn tensorflow
+```
+```
 python breast_cancer_nn.py
+```
